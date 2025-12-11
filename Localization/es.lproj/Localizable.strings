@@ -4,7 +4,7 @@
 "LockOptions" = "Ajustes de bloqueo";
 "EnableFastLock" = "Habilitar bloqueo rápido";
 "HapticFeedback" = "Respuesta Háptica";
-"LowPowerMode" = "Habilitar modo de bajo consumo";
+"LowPowerMode" = "Modo de bajo consumo";
 "Activation" = "Activación";
 "SingleTap" = "Pulsación simple";
 "DoubleTap" = "Pulsación doble";
@@ -16,9 +16,9 @@
 "UnlockOptions" = "Ajustes de desbloqueo";
 "EnableAutoUnlock" = "Habilitar auto-desbloqueo";
 "DisableIfNotifs" = "Deshabilitar con notificaciones";
-"DisableIfMusic" = "Deshabilitar sonando música";
-"DisableIfLPM" = "Deshabilitar en modo de bajo consumo";
-"DisableIfFlashlight" = "Deshabilitar con luz de flash activada";
+"DisableIfMusic" = "Deshabilitar con música";
+"DisableIfLPM" = "Deshabilitar en bajo consumo";
+"DisableIfFlashlight" = "Deshabilitar con flash activado";
 "UnlockSound" = "Sonido de desbloqueo";
 "Disabled" = "Deshabilitado";
 "UnlockFooter" = "La Cancelación de Auto-desbloqueo en modo de bajo consumo sólo se aplica cuando este está activado manualmente, no mediante FastLock. Es una cuestión de diseño.";
